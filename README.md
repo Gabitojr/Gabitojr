@@ -11,9 +11,9 @@ Hello! I'm Carlos Garcia, a seasoned software developer and network engineer wit
 
 <p>
 <h2>🛠️ Technical Expertise</h2>
-<li> Front-End Development: Proficient in creating responsive and interactive user interfaces using React and Vue.js. </li>
-<li>Back-End Development: Extensive experience in developing robust back-end solutions with Node.js and Next.js. </li>
-<li>Programming Languages: Skilled in TypeScript and PHP, with a focus on writing clean, maintainable, and efficient code.</li>
+<li> Front-End Development: Proficient in creating responsive and interactive user interfaces using React, NextJs, Svelte, Angular, Astro and Vue.js. </li>
+<li>Back-End Development: Extensive experience in developing robust back-end solutions with Node.js, Nest, Express, Laravel and Next.js. </li>
+<li>Programming Languages: Skilled in TypeScript, Javascript, ASP .NET and PHP, with a focus on writing clean, maintainable, and efficient code.</li>
 <li>Network Engineering: Experienced as a senior network engineer, managing complex network infrastructures and ensuring optimal performance.</li>
 
 </p>
