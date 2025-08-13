@@ -24,7 +24,6 @@ Project Management: Skilled in agile methodologies, ensuring projects are delive
 
 <h2> 🌐 Connect with Me </h2>
 <li> LinkedIn: https://www.linkedin.com/in/carlos-bismarck-1280481b1/ </li>
-<li> </li>Email: cbjgsevilla@gmail.com </li>
 Feel free to explore my repositories to see the projects I've worked on and the coding practices I advocate for.
 
 
